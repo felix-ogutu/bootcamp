@@ -1,0 +1,20 @@
+#command use to list all the files and the directories
+$ls used to check the list of the directories.
+
+#to create the directory
+$mkdir name
+
+#To create the file command
+$touch filename
+
+#To check the file and the directories in the folder  
+$ls
+
+#To delete the file in the directories
+$rm filename
+
+#To delete the directories
+$rm-r directory-name
+
+#To download the GitHub Destop
+ $sudo wget https://github.com/shiftkey/desktop/releases/download/release-2.1.0-linux1/GitHubDesktop-linux-2.1.0-linux1.deb
